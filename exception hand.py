@@ -21,6 +21,8 @@
 #         intr()
 # intr()
 
+print('hello')
+
 def intr():
     a=int(input("enter- "))
     if a<0:
